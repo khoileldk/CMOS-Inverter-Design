@@ -1,6 +1,5 @@
 # CMOS-Inverter-Design
 CMOS inverter design from schematic to layout with DRC/LVS verification and post-layout analysis.
-# CMOS Inverter Design (Lab 01)
 
 ## 📌 Overview
 
